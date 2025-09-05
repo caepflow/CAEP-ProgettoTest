@@ -1,0 +1,11 @@
+id: 9b5600c2-efa6-46e9-ba69-e266d13200f5
+type: person
+description: Person that use the system
+name: Person
+interactions:
+- type: software-system
+  targetId: 80b913e2-c1ef-48d7-a9f5-60fe60d57915
+  level: context
+- type: web-application
+  targetId: f96eba05-addb-4efa-b190-a00e30da00c4
+  level: container

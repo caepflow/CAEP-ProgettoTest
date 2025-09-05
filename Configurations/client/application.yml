@@ -1,0 +1,17 @@
+id: cf30b4e2-2982-4952-821e-aac592b42d7a
+name: Application
+type: application
+description: Application layer
+author: CodeArchitects
+namespace: Ca.CaepFlow
+modelNamespace: Ca.CaepFlow.Model
+rootNamespace: Ca.CaepFlow.Containers
+baseApiUrl: ca/caepflow
+isFederable: true
+interactions:
+- type: domain
+  targetId: d0623f8c-6bf7-42b0-a572-e0001209e996
+  level: component
+- type: service
+  targetId: 94d2d3ba-a9ca-459c-b3da-2544e54f3c6f
+  level: component

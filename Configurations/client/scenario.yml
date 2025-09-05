@@ -1,0 +1,5 @@
+id: 8525d8cf-e2fb-40a9-8e1c-2578c8b1701b
+name: Scenario
+type: scenario
+description: Example of scenario
+namespace: Ca.CaepFlow.Domain.Scenario

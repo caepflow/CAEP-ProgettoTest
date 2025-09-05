@@ -1,0 +1,14 @@
+id: c5b6cbcf-004c-47fb-b888-aef8ac6d1f6e
+type: operation
+name: getRestOperation
+description: Example of get operation
+method: http_get
+parameters:
+- name: id
+  type: uuid
+  description: Get of the item to get
+  direction: in
+- name: result
+  type: DataTransferObject
+  description: The retrieved item
+  direction: out

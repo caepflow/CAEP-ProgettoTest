@@ -1,0 +1,13 @@
+id: 80b913e2-c1ef-48d7-a9f5-60fe60d57915
+name: SoftwareSystem
+type: software-system
+description: This is a sample software system configuration for C4 model generation.
+children:
+- id: 94d2d3ba-a9ca-459c-b3da-2544e54f3c6f
+  type: service
+- id: 9076530e-0c82-496a-9b34-fce05aea270e
+  type: database
+- id: f96eba05-addb-4efa-b190-a00e30da00c4
+  type: web-application
+- id: 0a7e05f9-6b6c-4828-bc90-cea4edadb644
+  type: gateway
