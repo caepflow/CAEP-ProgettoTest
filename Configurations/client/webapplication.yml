@@ -20,3 +20,10 @@ annotations:
       container:
         x: 639.5
         y: 376
+  - namespace: c4modeler
+    name: boundary
+    value:
+      x: 140.5
+      y: 331.5
+      width: 281
+      height: 663

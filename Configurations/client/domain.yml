@@ -4,6 +4,13 @@ type: domain
 description: Domain example
 namespace: Ca.CaepFlow.Domain
 interactions:
-- type: scenario
-  targetId: 8525d8cf-e2fb-40a9-8e1c-2578c8b1701b
-  level: component
+  - type: scenario
+    targetId: 8525d8cf-e2fb-40a9-8e1c-2578c8b1701b
+    level: component
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      component:
+        x: 140.5
+        y: 331.5

@@ -17,3 +17,9 @@ annotations:
       y: 264
       width: 778
       height: 528
+  - namespace: c4modeler
+    name: position
+    value:
+      context:
+        x: 90.5
+        y: 280
