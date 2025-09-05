@@ -13,10 +13,10 @@ annotations:
   - namespace: c4modeler
     name: boundary
     value:
-      x: 389
-      y: 264
-      width: 778
-      height: 528
+      x: 491.5
+      y: 250.5
+      width: 529
+      height: 501
   - namespace: c4modeler
     name: position
     value:
